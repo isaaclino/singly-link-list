@@ -7,7 +7,11 @@
  * I hereby certify that the contents of this file represent
  * my own original individual work. Nowhere herein is there
  * code from any outside resources such as another individual,
- * a website, or publishings unless specifically designated as
+ * a website, or publishings. 
+ *
+ * All rights reserved by Isaac Lino
+ * If you want to use this file, you have to give me credit for it!
+ *
  */
 
 #include <iostream>

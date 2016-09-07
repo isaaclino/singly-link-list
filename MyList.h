@@ -22,8 +22,8 @@
 
 using namespace std;
 
-#ifndef MYLIST_H_
-#define MYLIST_H_
+#ifndef MYLIST_H
+#define MYLIST_H
 
 
 struct NodeNext
@@ -73,5 +73,5 @@ public:
     
 };
 
-#endif /* MYLIST_H_ */
+#endif /* MYLIST_H */
 

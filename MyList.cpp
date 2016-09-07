@@ -1,6 +1,4 @@
 /**
- * Course: CS 14 Summer 2016
- *
  * First Name:      Isaac
  * Last Name:       Lino
  * Username:        ilino
